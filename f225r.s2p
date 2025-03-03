@@ -1,45 +1,4 @@
 ! Touchstone file exported from HFSS 2018.2.0
-!        File:           E:/0714/225_251_260_303.aedt
-!        Generated:      5:24:53 下午  8月 02, 2021
-!        Design:         OriginalCavity_fivecavity_225MHz_withAg_withFilet3
-!        Project:        225_251_260_303
-!        Setup:          Setup1
-!        Solution:       Sweep
-!
-! Variables:
-!        H12 = 26mm
-!        H23 = 37mm
-!        H_L = 5mm
-!        H_port = 10mm
-!        L12 = 26.7mm
-!        L23 = 16.3mm
-!        W12 = 40mm
-!        W23 = 40mm
-!        angle = 30deg
-!        d_L = 3.3mm
-!        dc = 0mm
-!        h_jingpian = 20mm
-!        h_qiepian = 7mm
-!        inner_x = 17.2mm
-!        inner_y = 7.5mm
-!        l_cao = 2.5mm
-!        l_jingpian = 27mm
-!        l_zhu = 65.5mm
-!        length_L = 5mm
-!        origin_x = 65.5mm
-!        origin_y = 5.5mm
-!        origin_z = 19mm
-!        r_zhu = 5mm
-!        w_cao = 12mm
-!        w_jingpian = 21.5mm
-!        w_qiepian = 9.5mm
-!        zhuanjiaodu = 208deg
-!        zhuanjiaodu1 = 41.1deg
-!        zhuanjiaodu2 = 47.45deg
-!        zhuanjiaodu3 = 46.6deg
-!        zhuanjiaodu4 = 47.45deg
-!        zhuanjiaodu5 = 41.1deg
-!
 # GHZ S MA R 50.000000
 ! Modal data exported
 ! Port[1] = 1:1
